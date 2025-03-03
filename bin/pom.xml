@@ -1,0 +1,8 @@
+<dependencies>
+    <!-- Other dependencies -->
+    <dependency>
+        <groupId>commons-digester</groupId>
+        <artifactId>commons-digester</artifactId>
+        <version>3.2</version> <!-- ระบุเวอร์ชันที่ใช้งานได้ -->
+    </dependency>
+</dependencies>
