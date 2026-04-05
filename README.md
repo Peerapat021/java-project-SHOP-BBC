@@ -53,27 +53,6 @@
 
 ---
 
-## 📁 Project Structure
-
-```
-src/
- ├── main/
- │   ├── java/com/shopbbc/
- │   │   ├── controller/   # REST Controllers
- │   │   ├── service/      # Business Logic
- │   │   ├── repository/   # Data Access Layer
- │   │   ├── model/        # Entity Classes
- │   │   └── ShopBbcApplication.java
- │   │
- │   ├── resources/
- │   │   ├── application.properties
- │   │   └── static/
- │
- └── test/                 # Unit Tests
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
